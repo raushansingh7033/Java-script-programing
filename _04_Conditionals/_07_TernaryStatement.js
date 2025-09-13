@@ -1,0 +1,1 @@
+let result = age > 18 ? "You can drive" : "you can not drive"
