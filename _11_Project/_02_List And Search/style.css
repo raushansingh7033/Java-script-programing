@@ -1,0 +1,83 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing:border-box ;
+  font-family:sans-serif;
+}
+
+html,body{
+  width:100%;
+  height:100%;
+  background-color: #f0f0f0;
+}
+
+.container{
+ 
+  width:100%;
+  background-color: white;
+  max-width: 34rem;
+  margin: 50px auto ;
+  display: flex;
+  gap: 20px;
+  flex-direction: column;
+  align-items: center;
+  padding: 50px 20px ;
+  box-shadow:0 0 10px rgba(0,0,0,0.219);
+  border-radius: 10px;
+}
+
+
+#searchInput{
+  padding: 12px 10px;
+  width: 100%;
+  border-radius: 1px solid rgba(0,0,0,0.219);
+}
+
+.userContainer{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+.userContainer .userItem{
+  display:flex;
+  gap: 0px;
+  align-items: center;
+  padding: 15px 15px;
+  background-color: #f8f8f8;
+  width: 100%;
+  height: 4rem;
+}
+.userContainer .userItem img{
+height: 100%;
+width: 100%;
+object-fit: cover; 
+object-position: top;
+}
+.userContainer .userItem .image{
+height:100%;
+border-radius: 100%;
+overflow: hidden;
+aspect-ratio:1/1;
+}
+
+.userContainer .userItem .userDetails h3{
+font-size: 14px;
+}
+.userContainer .userItem .userDetails p{
+font-size: 14px;
+}
+
+.userContainer .userItem .userDetails{
+display: flex;
+flex-direction: column;
+gap: 5px;
+}
+
+
+
+
+
+
+
+

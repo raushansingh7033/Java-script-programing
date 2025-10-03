@@ -1,0 +1,19 @@
+.box{
+  background-color: red;
+  padding:20px;
+}
+
+.box2{
+  font-size:60px;
+  text-decoration: underline;
+}
+
+.light{
+  background-color:white ;
+  color:black;
+
+}
+.dark{
+  background-color: black;
+  color:white;
+}
