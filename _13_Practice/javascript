@@ -1,0 +1,13 @@
+javascript is a high level interpreted programming language primarily used for web development . it enables developers to create dynamic and interactive web pages. javascript runs in the browser (client side), but it can also be used on the server side through environment like Node .js
+
+<script>
+document.write("raushan")
+</script>
+
+
+// identifiers
+identifiers are the names assigned to various program elements such as methods, classes.
+// rules
+
+
+variable
