@@ -87,7 +87,7 @@ console.log(typeof a)
 // nnssbbu number null string symbol boolean bigint undefined
 // Q7: What is the difference between null and undefined?
 // undefined variable declare kiya ho par intialize nahi kiya ho (data type undefined)
-// agar maine vaiable me null assign kar diya to wo null dega (datatype object)
+// agar maine variable me null assign kar diya to wo null dega (datatype object)
 // Q8: Is JavaScript a statically typed or dynamically typed language?
 // dynamically
 // Q9: What will be the output of typeof null?

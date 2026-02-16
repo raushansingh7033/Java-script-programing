@@ -26,9 +26,9 @@
 // ajax and premises
 
 // Data type
-// A data type in js is way to describe the typeof data that is stored in a varibale
+// A data type in js is way to describe the typeof data that is stored in a variable
 
-// when we create a variable in js , you do not have worry about type of data you will store in it beacuse javascript is a dynamically typed language
+// when we create a variable in js , you do not have worry about type of data you will store in it because javascript is a dynamically typed language
 
 // we don't even have to specify the data type for the variable while decalring it
 
@@ -84,7 +84,6 @@ var name = "raushan" // name is string
 // console.log(age);
 
 // 4️ Undefined
-
 
 // A variable is undefined when it is declared but not assigned any value.
 
